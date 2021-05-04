@@ -12,7 +12,7 @@ To install mySQL in our computer we will need to install two differents programs
             sudo /etc/init.d/mysql start # to elevate the server
     
         ⚠️ When you run this last code you will get a warning in the terminal. Nothing happens, we can continue working ⚠️ 
-    - Configurar SQL
+    - SQL configuration
 
             # In the terminal
             sudo mysql -u root -p
@@ -30,3 +30,9 @@ To install mySQL in our computer we will need to install two differents programs
 
 - **5.5.2 Workbench**   
     To install Workbench we should open our browser and go to the mySQL [website](https://dev.mysql.com/downloads/workbench/)
+
+**5.2. Init the server**
+
+Before opening Workbench it is necessary that we start the mySQL server in the terminal. For that, we put in the terminal:
+
+    sudo /etc/init.d/mysql start
