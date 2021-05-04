@@ -2,8 +2,8 @@
 
 Visual Studio Code is an IDE (integrated development environment) that we will use to develop our projects. It mainly serves as a text editor.
 
-1. Installation
-To install we should open our browser and got to the VSC [website](https://code.visualstudio.com/).  
+**2.1. Installation**
+To install we should open our browser and go to the VSC [website](https://code.visualstudio.com/).  
 
                          ❗ We download for Windows ❗
                          
@@ -11,7 +11,7 @@ To install we should open our browser and got to the VSC [website](https://code.
 
     ![image](https://github.com/AnaAGG/Como-hacer-un-bootcamp-y-no-morir-en-el-intento/blob/main/Images/VSC2.png?raw=true)
 
-2. Extensions and configuration
+**2.2. Extensions and configuration**
 
     Open VSC. Press`ctrl + shift + p`. A menu will appear on the top. After you pressed the keys, write the following text and click on it to install:      
     - Python: select the interpreter, we will proceed to install it
