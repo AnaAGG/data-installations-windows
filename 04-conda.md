@@ -22,3 +22,27 @@
 
         conda create --name ironhack
 
+- Activate the environment:
+
+        source activate ironhack  
+
+
+- Install ipykernel:
+
+        conda install -c anaconda ipykernel
+        python -m ipykernel install --user --name=ironhack
+
+- Open jupyter notebook:  
+
+        jupyter notebook
+
+- Create a new jupyter notebook selecting your kernel as: `ironhack`
+
+In a cell:
+```python
+import numpy as np
+```
+🚨 If it returns 'module not found', go back to your terminal and within your environment, do: 
+
+        pip3 install numpy
+
