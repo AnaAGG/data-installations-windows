@@ -31,6 +31,8 @@ To install mySQL in our computer we will need to install two differents programs
 - **5.5.2 Workbench**   
     To install Workbench we should open our browser and go to the mySQL [website](https://dev.mysql.com/downloads/workbench/)
 
+    ⚠️ In this case, we download the windows version ⚠️
+
 **5.2. Init the server**
 
 Before opening Workbench it is necessary that we start the mySQL server in the terminal. For that, we put in the terminal:
