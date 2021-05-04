@@ -13,3 +13,21 @@ Install the Windows Subsystem for Linux!
 The **Windows Subsystem for Linux** or Windows WSL is a great solution for developers to natively work within Linux right on their Windows 10 version desktop.
 
 If you’ve spent way too much time partitioning hard drives to have several Linux systems installed with Windows, you’re in luck with this article.
+
+## **What will you find in this repo?**
+In this repo you will find all the necessary information to: 
+- Install the windows Subsytem for Linux
+
+- Linux terminal (in this case we will use Hyper)
+
+- Installation processes of some basic tools to survive the ironhack data analysis bootcamp:
+
+    - Python, pip
+
+    - Jupyter Notebook
+
+    - Conda
+
+    - SQL
+
+    - MongoDB
