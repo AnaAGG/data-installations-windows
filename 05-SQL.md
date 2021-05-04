@@ -29,4 +29,4 @@ To install mySQL in our computer we will need to install two differents programs
         ```
 
 - **5.5.2 Workbench**   
-    To install Workbench we should open our browser and go to the mySQL [website](https://www.anaconda.com/products/individual)
+    To install Workbench we should open our browser and go to the mySQL [website](https://dev.mysql.com/downloads/workbench/)
