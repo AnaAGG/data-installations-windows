@@ -1,6 +1,6 @@
 # How to do a bootcamp with Windows and not die trying
 
-![portada](https://www.google.es/imgres?imgurl=https%3A%2F%2Fwww.jenx.si%2Fwp-content%2Fuploads%2F2019%2F08%2Fwsl2-logo.png&imgrefurl=https%3A%2F%2Fwww.jenx.si%2Ftag%2Fwindows-subsystem-for-linux%2F&tbnid=mCD4VVMv6ZLbyM&vet=12ahUKEwiy-svWzbDwAhUTNxoKHdaHCVcQMygkegUIARDyAQ..i&docid=6QKf0fLJzr5LpM&w=868&h=441&q=Windows%20subsytem%20linux&hl=es&ved=2ahUKEwiy-svWzbDwAhUTNxoKHdaHCVcQMygkegUIARDyAQ)
+![portada](https://github.com/AnaAGG/data-installations-windows/blob/main/Images/microsoft_loves_linux_by_jogibaer-d9lrvp1.jpeg?raw=true)
 
 You are one of the brave people who get into a data analysis bootcamp and you are going to do it with Windows, in this repo we will try to make things easier for you.
 
