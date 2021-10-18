@@ -1,6 +1,6 @@
-# 4. Conda
+# 5. Conda
 
-**4.1. Installation**
+**5.1. Installation**
 ⚠⚠ REALLY REALLY IMPORTANT, the version that we download should be for **LINUX** ⚠⚠
 
 - To install we should open our browser and go to the Anaconda [website](https://www.anaconda.com/products/individual)
@@ -17,7 +17,7 @@
 
 - Finally you must close the terminal and open again. 
 
-**4.2. Create an environment**
+**5.2. Create an environment**
 - Create an environment:  
 
         conda create --name ironhack
