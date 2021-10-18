@@ -2,8 +2,9 @@
 
 1) Activar la feature de Windows, deshabilitada por defecto, que permite instalar el subsistema de Linux. Para ello, ejecutamos Powershell como Administrador e introducimos el siguiente código:
 
-        Enable-WindowsOptionalFeature-Online-FeatureName
-        Microsoft-Windows-Subsystem-Linux
+    ```
+    Enable-WindowsOptionalFeature-Online-FeatureName Microsoft-Windows-Subsystem-Linux
+    ```
 
 2) Cuando nos pida reiniciar, lo hacemos (pulsando Y + Enter)
 
