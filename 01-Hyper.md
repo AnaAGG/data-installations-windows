@@ -2,13 +2,10 @@
 
 1) Activar la feature de Windows, deshabilitada por defecto, que permite instalar el subsistema de Linux. Para ello, ejecutamos Powershell como Administrador e introducimos el siguiente código:
 
-<<<<<<< HEAD
+
     ```
     Enable-WindowsOptionalFeature-Online-FeatureName Microsoft-Windows-Subsystem-Linux
     ```
-=======
-        Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
->>>>>>> 79e558b50d0f6f070c774cba11c00ef69d285838
 
 2) Cuando nos pida reiniciar, lo hacemos (pulsando Y + Enter)
 
@@ -25,18 +22,18 @@ https://hyper.is/
     - El primero y más importante, rellenar el campo “shell” con la siguiente ruta:
 
 
-                            shell: 'C:\\Windows\\System32\\bash.exe',
+            shell: 'C:\\Windows\\System32\\bash.exe',
 
 
 
     - La segunda, cambiar el theme para que luzca más bonito. Lo hacemos rellenando el campo “plugins” de este archivo de configuración.
 
                     
-                                    plugins: [
-                                    //"hyper-dracula"
-                                    //"hyper-solarized-dark"
-                                    "hyper-material-theme"
-                                    ],
+            plugins: [
+            //"hyper-dracula"
+            //"hyper-solarized-dark"
+            "hyper-material-theme"
+            ],
         Para más "plugins" [aquí](https://github.com/bnb/awesome-hyper)
 
 🔴 A partir de aquí los pasos no son obligatorios, pero recomendados
@@ -49,8 +46,8 @@ https://hyper.is/
 
 11) Pegamos este código al principio del archivo Y GUARDAMOS. Nos aseguramos de que se ha guardado.
 
-                                        bash -c zsh
-                                        case $- in
+        bash -c zsh
+        case $- in
 
 12) Con esto, si reiniciamos Hyper ya debería abrirse con ZSH iniciado. Lo sabremos porque habrá cambiado el aspecto, pero también podemos crear una carpeta y hacer git init para comprobar que sale el indicador del master.  
 
@@ -66,4 +63,4 @@ Con este comando lo instalamos:
 
 Y esto es lo que meteríamos en el .zshrc para cambiar el theme: 
 
-                                ZSH_THEME="agnoster"
+ZSH_THEME="agnoster"
