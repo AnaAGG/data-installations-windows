@@ -4,7 +4,7 @@
 
 
     ```
-    Enable-WindowsOptionalFeature-Online-FeatureName Microsoft-Windows-Subsystem-Linux
+    Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
     ```
 
 2) Cuando nos pida reiniciar, lo hacemos (pulsando Y + Enter)
