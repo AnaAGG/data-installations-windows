@@ -8,7 +8,8 @@ To install mySQL in our computer we will need to install two differents programs
 
     - In the terminal: 
 
-            sudo apt update sudo apt install mysql-server
+            sudo apt update 
+            sudo apt install mysql-server
             sudo /etc/init.d/mysql start # to elevate the server
     
         ⚠️ When you run this last code you will get a warning in the terminal. Nothing happens, we can continue working ⚠️ 
