@@ -21,8 +21,7 @@ To install mySQL in our computer we will need to install two differents programs
         ```SQL
         USE mysql; 
 
-        ALTER USER 'root'@'localhost' 
-        IDENTIFIED WITH mysql_native_password BY 'admin';
+        ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'admin';
         #Substitute 'admin' by your password if you want
         FLUSH PRIVILEGES; 
         
